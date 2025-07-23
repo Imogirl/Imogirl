@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tharuka Sanjeewa</h1>
+<h1 align="center">Hi 👋, I'm Imasha Dulshini</h1>
 <h3 align="center">A Front & Backend Developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning *React and Flutter*
-- 👨‍💻 All of my projects are available at [leulex.lk](https://github.com/LEULEX-404)
-- 📫 How to reach me: *miyurut20@gmail.com*
+- 👨‍💻 All of my projects are available at [imogirl.lk](https://github.com/Imogirl)
+- 📫 How to reach me: *imashadulxsini1@gmail.com*
 
 ---
 
@@ -74,7 +74,7 @@
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=LEULEX-404&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Imogirl&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/></a>
     </p>
 
   <p>
