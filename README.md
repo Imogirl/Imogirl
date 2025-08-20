@@ -69,14 +69,9 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Imogirl&show_icons=true&count_private=true&theme=default&hide_border=true" height="192px"/></a>
-    </p>
+| ![Followers](https://img.shields.io/badge/Followers-2-blue?logo=github) | ![Following](https://img.shields.io/badge/Following-6-blue?logo=github) | ![Public Repos](https://img.shields.io/badge/Public%20Repos-1-blue?logo=github) | ![Public Gists](https://img.shields.io/badge/Public%20Gists-0-blue?logo=github) |
+| :---: | :---: | :---: | :---: |
 
-  <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riyon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEULEX-404&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a> </p>
-  <br/>
+- **Last Updated:** 2025-08-18
