@@ -71,7 +71,12 @@
 
 ## 📊 GitHub Stats
 
-| ![Followers](https://img.shields.io/badge/Followers-2-blue?logo=github) | ![Following](https://img.shields.io/badge/Following-6-blue?logo=github) | ![Public Repos](https://img.shields.io/badge/Public%20Repos-1-blue?logo=github) | ![Public Gists](https://img.shields.io/badge/Public%20Gists-0-blue?logo=github) |
-| :---: | :---: | :---: | :---: |
+<div align="center">
 
-- **Last Updated:** 2025-08-18
+[![Imogirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=radical)](https://github.com/Imogirl)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Imogirl&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=radical)
+
+</div>
+
