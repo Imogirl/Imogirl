@@ -47,17 +47,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <p align="center">
   <a href="https://github.com/Imogirl">
-    <img src="https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imogirl&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=radical" alt="Top Languages" />
+  🌸💻🔥
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imogirl&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
