@@ -1,82 +1,61 @@
 <h1 align="center">Hi 👋, I'm Imasha Dulshini</h1>
-<h3 align="center">A Front & Backend Developer from Sri Lanka</h3>
+<h3 align="center">A Fullstack Developer from Sri Lanka 💻✨</h3>
 
-- 🌱 I’m currently learning *React and Flutter*
-- 👨‍💻 All of my projects are available at [imogirl.lk](https://github.com/Imogirl)
-- 📫 How to reach me: *imashadulxsini1@gmail.com*
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.facebook.com/Maddumage.M.I.D.R" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/Maddumage.M.I.D.R" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
- 
+<p align="center">
+  🌱 Currently learning <b>React</b> & <b>Flutter</b><br>
+  👩‍💻 All projects: <a href="https://github.com/Imogirl">imogirl.lk</a><br>
+  📫 Reach me: <b>imashadulxsini1@gmail.com</b>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+### 🌸 Connect with me
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-<br>CSS
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<br>Javascript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="NextJS" />
-<br>NextJS
-</td>
-<td align="center"  width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="ExpressJS" />
-<br>ExpressJS
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="NodeJS" />
-<br>NodeJS
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-<br>Github
-</td>
-</table>
+<p align="center">
+  <a href="https://www.facebook.com/Maddumage.M.I.D.R" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/Maddumage.M.I.D.R" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:imashadulxsini1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Languages & Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs,nodejs,express,mysql,github" width="40" height="40" />
+</p>
 
-[![Imogirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=radical)](https://github.com/Imogirl)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Imogirl&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=radical)
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <a href="https://github.com/Imogirl">
+    <img src="https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imogirl&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌈 Visitors
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Imogirl.Imogirl" alt="Visitors" />
+</p>
+
+---
+
+<p align="center">
+  "Keep smiling, keep coding! 💖🚀"
+</p>
