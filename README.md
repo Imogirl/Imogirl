@@ -28,7 +28,21 @@
 ### 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs,nodejs,express,mysql,github" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" title="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" title="CSS" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" title="Tailwind" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="NextJS" title="NextJS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" title="NodeJS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="ExpressJS" title="ExpressJS" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" title="GitHub" />
+</p>
+
+<p align="center">
+  HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Bootstrap <br>
+  NextJS &nbsp;|&nbsp; NodeJS &nbsp;|&nbsp; ExpressJS &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; GitHub
 </p>
 
 ---
