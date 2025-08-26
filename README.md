@@ -47,20 +47,12 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Imogirl">
     <img src="https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   </a>
-</p>
-
-<p align="center">
-  🌸💻🔥
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imogirl&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
