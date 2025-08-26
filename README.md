@@ -25,43 +25,12 @@
 
 ---
 
-### 🛠 Languages & Tools
-
+### 🛠️ Languages & Tools  
 <p align="center">
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" title="HTML" /><br>HTML
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" title="CSS" /><br>CSS
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /><br>JS
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" title="Tailwind" /><br>Tailwind
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" title="Bootstrap" /><br>Bootstrap
-  </span>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,tailwind,nodejs,express,mysql,git,github,vscode,figma&perline=7" />
 </p>
 
-<p align="center">
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="NextJS" title="NextJS" /><br>NextJS
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS" title="NodeJS" /><br>NodeJS
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS" /><br>ExpressJS
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" title="MySQL" /><br>MySQL
-  </span>
-  <span style="background-color:#f5f5f5; padding:6px; border-radius:12px; margin:4px; display:inline-block;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" title="GitHub" /><br>GitHub
-  </span>
-</p>
+---
 
 <p align="center">
   HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; Tailwind &nbsp;|&nbsp; Bootstrap <br>
