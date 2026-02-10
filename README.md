@@ -550,7 +550,7 @@ const developer = {
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/Imogirl">
+<a href="https://imasha-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=firefox&logoColor=white&color=1a1625&labelColor=FFD700" height="38"/>
 <br><sub>Visit</sub>
 </a>
