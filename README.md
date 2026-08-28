@@ -81,9 +81,11 @@ const developer = {
 
 <table align="center">
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55" /><br>React</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" height="55" /><br>JavaScript</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" /><br>React</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" /><br>JavaScript</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" /><br>TypeScript</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="55" height="55" /><br>Next.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="55" height="55" /><br>Angular</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React Native" /><br>React Native</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" /><br>Tailwind CSS</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" /><br>HTML5</td>
@@ -97,8 +99,12 @@ const developer = {
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" /><br>Node.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express" /><br>Express</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" height="55" /><br>MySQL</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" /><br>MySQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" /><br>MongoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="55" height="55" /><br>PHP</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="55" height="55" /><br>Laravel</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" /><br>Java</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="55" height="55" /><br>Spring Boot</td>
 </tr>
 </table>
 
@@ -111,6 +117,11 @@ const developer = {
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" /><br>VS Code</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" /><br>Figma</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" /><br>Postman</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="55" height="55" /><br>Jira</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" width="55" height="55" /><br>Swagger</td>
+<td align="center" width="96"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" width="55" height="55" /><br>Playwright</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" /><br>Docker</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" /><br>Kubernetes</td>
 </tr>
 </table>
 
