@@ -154,18 +154,16 @@ const developer = {
 <td width="50%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imogirl&theme=tokyonight&hide_border=true&background=1a1625&stroke=C3A6E0&ring=C3A6E0&fire=E0BBE4&currStreakLabel=C3A6E0&border_radius=15" width="100%" /></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imogirl&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1625&title_color=C3A6E0&text_color=E6E6FA&langs_count=8&border_radius=15&card_width=400" width="100%" /></td>
+<td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Imogirl&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=C3A6E0&text_color=E6E6FA&bg_color=1a1625" alt="LEULEX-404's Top Languages" /></td>
 <td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imogirl&theme=tokyonight&utcOffset=5.5" width="100%" /></td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imogirl&custom_title=Rapunzel's%20Coding%20Adventure%20Graph&bg_color=1a1625&color=C3A6E0&line=E0BBE4&point=C3A6E0&area=true&hide_border=true&area_color=C3A6E0&title_color=C3A6E0" width="95%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Imogirl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%" />
+<img src="https://ghchart.rshah.org/6A0DAD/Imogirl" alt="Imogirl's Contribution Graph" width="900" />
+<!-- Option 1 -->
+<img src="https://github-trophies.vercel.app/?username=Imogirl&theme=dark&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
