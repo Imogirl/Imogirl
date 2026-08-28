@@ -150,7 +150,7 @@ const developer = {
 
 <table align="center" border="0">
 <tr>
-<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Imogirl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1625&title_color=C3A6E0&icon_color=E0BBE4&text_color=E6E6FA&ring_color=C3A6E0&border_radius=15" width="100%" /></td>
+<td width="50%" align="center"><img src="https://github-readme-stats.shion.dev/api?username=Imogirl&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=C3A6E0&icon_color=E0BBE4&text_color=E6E6FA&bg_color=1a1625&ring_color=C3A6E0" width="100%" /></td>
 <td width="50%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imogirl&theme=tokyonight&hide_border=true&background=1a1625&stroke=C3A6E0&ring=C3A6E0&fire=E0BBE4&currStreakLabel=C3A6E0&border_radius=15" width="100%" /></td>
 </tr>
 <tr>
