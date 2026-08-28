@@ -165,6 +165,9 @@ const developer = {
 <!-- Option 1 -->
 <img src="https://github-trophies.vercel.app/?username=Imogirl&theme=dark&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
+<br>
+<img src="https://raw.githubusercontent.com/Imogirl/Imogirl/main/streak.svg" width="100%" alt="Imogirl's 3D Contribution Graph" />
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
