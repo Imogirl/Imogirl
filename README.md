@@ -1,7 +1,3 @@
-<!-- ============================================ -->
-<!-- HEADER -->
-<!-- ============================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=C3A6E0&height=280&section=header&text=IMASHA%20DULSHINI&fontSize=65&fontColor=6A4C93&animation=fadeIn&fontAlignY=30&desc=Fullstack%20Developer%20%7C%20Dreamer%20%7C%20Creator&descSize=22&descAlignY=55" />
